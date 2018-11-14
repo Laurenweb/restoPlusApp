@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">restoplus</string>
     <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home">Accueil</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_dashboard">Restaurant</string>
+    <string name="title_notifications">Connexion</string>
 </resources>
