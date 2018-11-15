@@ -14,7 +14,7 @@ import fr.aston.restoplus.R;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * A simple {@link Fragment} subclass
  */
 public class HomeFragment extends Fragment {
 
@@ -31,7 +31,7 @@ public class HomeFragment extends Fragment {
         // Inflate the layout for this fragment
         View view = inflater.inflate(R.layout.fragment_home, container, false);
 
-        listViewFastFood = view.findViewById(R.id.listViewFastFood);
+        //listViewFastFood = view.findViewById(R.id.listViewFastFood);
 
         return view;
     }
@@ -42,6 +42,6 @@ public class HomeFragment extends Fragment {
 
         String[] stringList = { "aaa","bbb","ccc","ddd","eee","fff" };
 
-        listViewFastFood.setAdapter(new ArrayAdapter<String>(getContext(), android.R.layout.simple_list_item_1, stringList));
+        //listViewFastFood.setAdapter(new ArrayAdapter<String>(getContext(), android.R.layout.simple_list_item_1, stringList));
     }
 }

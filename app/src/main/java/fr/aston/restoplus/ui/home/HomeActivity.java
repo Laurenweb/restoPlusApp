@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import fr.aston.restoplus.R;
 import fr.aston.restoplus.ui.home.fragment.HomeFragment;
+import fr.aston.restoplus.ui.restaurant.RestaurantFragment;
 
 public class HomeActivity extends AppCompatActivity {
 
@@ -23,7 +24,7 @@ public class HomeActivity extends AppCompatActivity {
                     switchFragment(new HomeFragment());
                     return true;
                 case R.id.navigation_dashboard:
-
+                    switchFragment(new RestaurantFragment());
                     return true;
                 case R.id.navigation_notifications:
 
