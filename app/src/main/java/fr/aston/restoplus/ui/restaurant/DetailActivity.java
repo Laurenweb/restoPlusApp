@@ -13,7 +13,9 @@ import fr.aston.restoplus.ui.restaurant.model.Records;
 import fr.aston.restoplus.ui.restaurant.model.Restaurant;
 
 public class DetailActivity extends AppCompatActivity {
+
     private TextView textViewRestaurant;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

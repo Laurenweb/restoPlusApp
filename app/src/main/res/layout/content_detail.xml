@@ -9,7 +9,11 @@
     tools:showIn="@layout/activity_detail">
 
     <TextView
+<<<<<<< HEAD
         android:id="@+id/textViewRestaurant"
+=======
+        android:id="@+id/test"
+>>>>>>> 429c5832dc286dd86060aa8c6d553f8f40c6c2db
         android:text="Test"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
