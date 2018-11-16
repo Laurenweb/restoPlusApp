@@ -9,4 +9,5 @@
     <string name="title_dashboard">Restaurant</string>
     <string name="title_notifications">Connexion</string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="access_token">pk.eyJ1IjoiYWJkaWxsYWg5NzYiLCJhIjoiY2pvaXBpZXphMGFudzNrbnR3anAxc2hiNSJ9.L6GiHGrOOOIV53TlBrkgeg</string>
 </resources>
